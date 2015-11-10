@@ -1,0 +1,30 @@
+#box{
+	margin:0 auto;
+	width:700px;
+	height:450px;
+	
+}
+
+#orange{
+	width:99%;
+	height:20%;
+	border: solid  #FF6600;
+	background:#FF9D5C;
+	float:left;
+}
+
+#green{
+	width:10%;
+	height:78%;
+	border: solid #33CC33;
+	background:#5CD65C;
+	float:left;
+}
+
+#red{
+	width:88%;
+	height:78%;
+	border:solid #FF3030;
+	background:#FF5858;
+	float:left;
+}

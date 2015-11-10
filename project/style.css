@@ -1,0 +1,49 @@
+body{
+	background:black;
+}
+
+#cover{
+	width:100%;
+	height:auto
+	position:relative;
+	top:0;
+}
+
+
+#tokyo{
+	position: relative;
+	top:-100px;
+	left:300px;
+}
+
+
+#ghoul{
+	width:250px;
+	height:150px;
+	position:relative;
+	left:150px;
+	top:100px;
+}
+#pv1{
+	width:400px;
+	height:300px;
+	border:solid white;
+	border-width:10px;
+	margin: 0 auto;
+	
+}
+#pv2{
+	width:400px;
+	height:300px;
+	border:solid white;
+	border-width:10px;
+	float:left;
+	
+}
+#pv3{
+	width:400px;
+	height:300px;
+	border:solid white;
+	border-width:10px;
+	float:right;
+}

@@ -1,0 +1,37 @@
+p{
+	font-size:25px;
+}
+
+p{
+	font-family: Satisfy, cursive;
+	text-align:center;
+	padding:20px;
+	width:340px;
+	margin: 0 auto;
+
+	/* Set the border and border image properties */
+	border:30px solid transparent;
+	border-image:url(http://demo.tutorialzine.com/2013/10/css3-features-you-can-finally-use/assets/img/border.png) 30 30 round;
+}
+
+h1{
+	font-size:60px;
+	text-align:centre;
+}
+
+	}
+}
+
+.pala{color:blue;}
+.santa{
+	color:purple;
+}
+.greengreen{ 
+	color:green;
+	}
+	
+	.santa:hover{background-color:grey;}
+
+	body:{bakground-color:gradient grey;}
+	body:hover{background-color:white;}
+	

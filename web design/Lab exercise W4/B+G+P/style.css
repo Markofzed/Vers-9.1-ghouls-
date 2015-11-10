@@ -1,0 +1,24 @@
+#blue{
+	width:150px;
+	height:150px;
+	border: solid #0052CC;
+	background:#3083FF;
+	float:right;
+	
+}
+#green{
+	width:150px;
+	height:150px;
+	border: solid #33CC33;
+	background:#5CD65C;
+	float:right;
+	
+}
+#purple{
+	width:150px;
+	height:150px;
+	border: solid #6E25B8;
+	background:#8861AC;
+	float:right;
+	
+}
